@@ -79,7 +79,7 @@ using the vim editor from this path:
 
 ---
 
-## Step 3:Configuration of Mysql client 
+## Step 3: Configuration of Mysql client 
 
 - Update, upgrade, and install mysql:
 
@@ -87,7 +87,7 @@ using the vim editor from this path:
 
 ---
 
-## Step 4:Connecting to the server from the client side
+## Step 4: Connecting to the server from the client side
 
 - Connect to the server from the client with the following command:
 
