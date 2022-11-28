@@ -1,5 +1,5 @@
 ## Web Stack (LEMP) Implementation in AWS
-A web stack is a compilation of technologies, often needed for web or mobile  applications especially implementing websites. Its a solution stack that comprised of frameworks, programming languages, patterns, servers, libraries, softwares etc used by it developers. Its otherwise called web application stack.
+A web stack is a compilation of technologies, often needed for web or mobile  applications especially implementing websites. Its a solution stack th project at comprised of frameworks, programming languages, patterns, servers, libraries, softwares etc used by it developers. Its otherwise called web application stack.
 
 **LEMP**
 - Linux
